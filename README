@@ -1,0 +1,10 @@
+This repository contains some rather old files from my experiments with fhem.
+
+I used some existing I2C device driver files to create drivers for the displays EA DOGM204 and CBerry28,
+the pressure sensor HP03S and the temperature/humidity sensor HYT321.
+The drivers for the CBerry28 are based on the C code examples provided by the manufacturer.
+
+I also fixed some bugs in or enhanced existing drivers I used in my experiments (eg. MCP342x, SHT21, TLS2561).
+
+
+Feel free to use these files for your own experiments.
